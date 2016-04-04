@@ -13,6 +13,8 @@ gem 'coffee-rails', github: "rails/coffee-rails"
 gem 'jquery-rails'
 gem 'turbolinks', github: "rails/turbolinks"
 
+gem 'foreman'
+
 gem 'jbuilder', '~> 2.0'
 
 group :development, :test do
